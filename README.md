@@ -3,8 +3,8 @@
 This is the official repository for the paper: **"TruckAct: A multi-source, multimodal dataset for real-world truck driver activity recognition"**.
 
 ## 📢 News
-* The complete training and inference code for **TruckAct-Net** will be released upon official publication.**Coming Soon！！！**
-* **Coming Soon**: Pre-trained models and detailed configuration files for the FreqQG and TF-Former modules.**Coming Soon！！！**
+* The complete training and inference code for **TruckAct-Net** will be released upon official publication.  **Coming Soon！！！**
+* **Coming Soon**: Pre-trained models and detailed configuration files for the FreqQG and TF-Former modules.  **Coming Soon！！！**
 
 ---
 
